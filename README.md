@@ -76,6 +76,7 @@ I am a Master of Engineering student at École des Mines de Saint-Étienne. I am
 
 I am eager to contribute my skills and enthusiasm to an innovative and dynamic company.
 
-[![E-Mail](https://img.shields.io/badge/email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet-b3920b215/)
+[![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet-b3920b215/)
 [![Github](https://img.shields.io/badge/Github-Martin_Poncet-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/MartinPoncet)
+[![Profile Views](https://komarev.com/ghpvc/?username=martinponcet)
