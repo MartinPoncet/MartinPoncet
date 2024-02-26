@@ -41,7 +41,7 @@
 
 ## Projects
 
-### Complex Wind Turbine Simulation (September 2023 - December 2023)
+### Complex Wind Turbine Simulation (September 2023 - December 2023) [[Code](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation)]
 
 * Developed a modular and scalable wind turbine simulation in C, applying object-oriented programming principles.
 * Simulated various wind conditions and modeled real-world scenarios, including maintenance and repair.
