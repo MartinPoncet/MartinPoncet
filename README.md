@@ -4,7 +4,7 @@
 
 * Phone: (+33) 660042652
 * Email: martin.poncet@etu.emse.fr
-* LinkedIn: https://www.linkedin.com/in/martin-poncet/
+* LinkedIn: [https://www.linkedin.com/in/martin-poncet/](https://www.linkedin.com/in/martin-poncet-b3920b215/)
 
 ## Education
 
