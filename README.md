@@ -78,3 +78,4 @@ I am a Master of Engineering student at École des Mines de Saint-Étienne. I am
 I am eager to contribute my skills and enthusiasm to an innovative and dynamic company.
 
 [![E-Mail](https://img.shields.io/badge/email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet-b3920b215/)
