@@ -11,7 +11,7 @@
 ### École des Mines de Saint-Étienne (September 2023 - )
 
 * Master of Engineering ISMIN Curriculum: Computer Science and Microelectronics
-* Class of 2026
+* Promotion of 2026
 * Courses in computer science and data science (C/C++, Python/Pandas), microelectronics, mathematics, management...
 
 ### Lycée Chaptal (September 2021 - July 2023)
@@ -76,7 +76,3 @@
 I am a Master of Engineering student at École des Mines de Saint-Étienne. I am passionate about computer science, data science, and artificial intelligence. I am also a strong advocate for continuous learning and am always looking for new technologies to explore.
 
 I am eager to contribute my skills and enthusiasm to an innovative and dynamic company.
-
-## Acknowledgments
-
-I would like to thank all those who have supported me and contributed to my academic and professional career.
