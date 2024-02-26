@@ -76,3 +76,5 @@
 I am a Master of Engineering student at École des Mines de Saint-Étienne. I am passionate about computer science, data science, and artificial intelligence. I am also a strong advocate for continuous learning and am always looking for new technologies to explore.
 
 I am eager to contribute my skills and enthusiasm to an innovative and dynamic company.
+
+![E-Mail](https://img.shields.io/badge/email-martin.poncet@etu.emse.fr-black?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
