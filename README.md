@@ -63,7 +63,7 @@
 
 ### Bitcoin Trading Bot
 
-* Developed a Python-based Bitcoin trading bot using PyTorch and Pandas.
+* Developed a Python-based Bitcoin trading bot using TensorFlow and Pandas.
 
 ## Technical Skills
 
