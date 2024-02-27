@@ -67,8 +67,8 @@
 
 ## Technical Skills
 
-* Languages: French (native), English (C1), Spanish (B1), Chinese (A1)
-* Programming Languages: Python, C/C++, SQL, Java, JavaScript
+* Language: French (native), English (C1), Spanish (B1), Chinese (A1)
+* Programming Language: Python, C/C++, SQL, Java, JavaScript
 
 ## Conclusion
 
