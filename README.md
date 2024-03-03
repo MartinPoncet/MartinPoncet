@@ -40,18 +40,18 @@
 
 ## Projects
 
+### Order Book Delta Parser (February 2024)
+
+* Parsed order book delta data and logged the state of the order book in both L2 and L3 formats.
+* Handled order book updates using deltas, representing changes to the order book state over time.
+* Used Python libraries such as pandas, logging, and collections for data manipulation, logging, and data structure management.
+
 ### Complex Wind Turbine Simulation (September 2023 - December 2023) [[Code](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation)]
 
 * Developed a modular and scalable wind turbine simulation in C, applying object-oriented programming principles.
 * Simulated various wind conditions and modeled real-world scenarios, including maintenance and repair.
 * Implemented a user-friendly menu interface for customization and result analysis.
 * Demonstrated proficiency in dynamic memory allocation, file I/O, and comprehensive documentation.
-
-### Trading Simulation System (June 2023 - August 2023)
-
-* Developed a realistic trading simulation system for financial markets.
-* Implemented various trading algorithms and strategies within the simulation.
-* Created a comprehensive metrics dashboard with real-time performance indicators.
 
 ### TIPE (September 2021 - April 2023)
 
