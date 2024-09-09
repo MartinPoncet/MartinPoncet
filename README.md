@@ -2,79 +2,77 @@
 
 ## Contact
 
-* Email: martin.poncet@etu.emse.fr
+* Email: [martin.poncet@etu.emse.fr](mailto:martin.poncet@etu.emse.fr)
 * LinkedIn: [https://www.linkedin.com/in/martin-poncet/](https://www.linkedin.com/in/martin-poncet-b3920b215/)
+* Github: [https://github.com/MartinPoncet](https://github.com/MartinPoncet)
 
 ## Education
 
-### École des Mines de Saint-Étienne (September 2023 - )
+### École des Mines de Saint-Étienne (September 2023 - Present)
 
-* Master of Engineering ISMIN Curriculum: Computer Science and Microelectronics
-* Promotion of 2026
-* Courses in computer science and data science (C/C++, Python/Pandas), microelectronics, mathematics, management...
+* Master’s in Computer Science and Microelectronics
+* Class of 2026
+* Courses in computer science (C/C++, Python, Pandas), microelectronics, mathematics, and management.
 
 ### Lycée Chaptal (September 2021 - July 2023)
 
-* Two-year intensive program for engineering school entrance
-* First year in PTSI (Physics, Technology, and Engineering Science) and then in PT (Physics and Technology) during the second year.
-* Courses in mathematics, physics, engineering science, computer science (Python language)....
+* Two-year intensive preparatory program for engineering school entrance exams.
+* First year in PTSI (Physics, Technology, and Engineering Science) followed by PT (Physics and Technology).
+* Extensive coursework in mathematics, physics, engineering science, and computer science (Python).
 
 ### Lycée La Martinière Diderot (September 2018 - July 2021)
 
-* French Baccalaureate
-* Advanced mathematics and English options
+* French Baccalaureate in the scientific field, with advanced options in mathematics and English.
 
 ## Experience
 
-### Société Générale - CIB (January 2024)
+### Agence Nationale des Fréquences (ANFR) – Paris 2024 Olympics (July 2024 - August 2024)
 
-* Internship
-* Improved the management capacity tracking dashboard
-* Created performance dashboards for data center management
+* Radio Frequency Technician
+* Conducted equipment tests and real-time spectrum analysis to ensure proper communication during the Paris 2024 Olympics.
+* Collaborated with technical teams to resolve interference and maintain secure radio communications.
+
+### Société Générale - CIB (January 2024 - February 2024)
+
+* Software Engineer Intern
+* Enhanced capacity management tracking dashboards and developed performance metrics for data center management.
 
 ### Digiplay Studio (December 2017)
 
 * Job shadowing
-* Use of IT tools for audiovisual creation
-* Video and audio editing
+* Gained experience in audiovisual design, including video and audio editing using digital tools.
 
 ## Projects
 
 ### Order Book Delta Parser (February 2024)
 
-* Parsed order book delta data and logged the state of the order book in both L2 and L3 formats.
-* Handled order book updates using deltas, representing changes to the order book state over time.
-* Used Python libraries such as pandas, logging, and collections for data manipulation, logging, and data structure management.
+* Developed a Python script to parse and log order book delta data in L2 and L3 formats.
+* Managed real-time order book updates using deltas, with data manipulation via Python libraries like Pandas and logging.
 
-### Complex Wind Turbine Simulation (September 2023 - December 2023) [[Code](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation)]
+### Wind Turbine Complex Simulation (September 2023 - December 2023) [[Code](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation)]
 
-* Developed a modular and scalable wind turbine simulation in C, applying object-oriented programming principles.
-* Simulated various wind conditions and modeled real-world scenarios, including maintenance and repair.
-* Implemented a user-friendly menu interface for customization and result analysis.
-* Demonstrated proficiency in dynamic memory allocation, file I/O, and comprehensive documentation.
+* Developed a modular and scalable wind turbine simulation in C, focusing on object-oriented programming principles.
+* Simulated varying wind conditions and real-world scenarios, such as maintenance.
+* Created a customizable user interface for scenario analysis and applied dynamic memory allocation and file I/O techniques.
 
-### TIPE (September 2021 - April 2023)
+### TIPE - Personal Supervised Initiative (September 2021 - April 2023)
 
-* Evaluation of the Personal Supervised Initiative
-* Designed experimental setups to measure static and dynamic friction coefficients using the principles of Coulomb's law.
-* Applied knowledge in physics, computer science, and engineering.
-* Worked closely with a partner, refining teamwork and communication skills.
-* Effectively presented the results, demonstrating my ability to articulate complex concepts.
+* Designed experimental setups to measure friction coefficients using Coulomb’s Law, integrating knowledge from physics, computer science, and engineering.
+* Collaborated with a partner to conduct experiments and present results, developing strong teamwork and communication skills.
 
 ### Bitcoin Trading Bot
 
-* Developed a Python-based Bitcoin trading bot using TensorFlow and Pandas.
+* Developed a Python-based Bitcoin trading bot using TensorFlow and Pandas to automate cryptocurrency trading.
 
 ## Technical Skills
 
-* Language: French (native), English (C1), Spanish (B1), Chinese (A1)
-* Programming Language: Python, C/C++, SQL, Java, JavaScript
+* **Languages**: French (native), English (C1), Spanish (B1), Chinese (A1)
+* **Programming Languages**: Python, C/C++, SQL, Java, JavaScript
+* **Tools & Frameworks**: Pandas, TensorFlow, Logging, Collections
 
 ## Conclusion
 
-I am a Master of Engineering student at École des Mines de Saint-Étienne. I am passionate about computer science, data science, and artificial intelligence. I am also a strong advocate for continuous learning and am always looking for new technologies to explore.
-
-I am eager to contribute my skills and enthusiasm to an innovative and dynamic company.
+As a Master’s student in Computer Science and Microelectronics at École des Mines de Saint-Étienne, I am deeply passionate about software engineering, data science, and AI. I thrive in problem-solving and innovation, constantly exploring new technologies and techniques. With my diverse project experience and academic background, I am eager to contribute to forward-thinking companies looking for dynamic software engineers.
 
 [![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet-b3920b215/)
