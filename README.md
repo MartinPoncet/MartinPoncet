@@ -65,3 +65,12 @@
 * **Languages**: French (native), English (C1), Spanish (B1), Chinese (A1)
 * **Programming Languages**: Python, C/C++, SQL, Java, JavaScript
 * **Tools & Frameworks**: Pandas, TensorFlow, Logging, Collections
+
+## Conclusion
+
+As a Master’s student in Computer Science and Microelectronics at École des Mines de Saint-Étienne, I am deeply passionate about software engineering, data science, and AI. I thrive in problem-solving and innovation, constantly exploring new technologies and techniques. With my diverse project experience and academic background, I am eager to contribute to forward-thinking companies looking for dynamic software engineers.
+
+[![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet-b3920b215/)
+[![Github](https://img.shields.io/badge/Github-Martin_Poncet-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/MartinPoncet)
+[![Profile Views](https://komarev.com/ghpvc/?username=martinponcet&color=lightgray)](https://github.com/MartinPoncet)
