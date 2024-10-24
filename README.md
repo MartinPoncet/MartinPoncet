@@ -42,7 +42,7 @@
 
 ## Projects
 
-### Order Book Delta Parser (February 2024)
+### Order Book Delta Parser (February 2024) [[Code](https://github.com/MartinPoncet/Order-Book-Delta-Parser)]
 
 * Developed a Python script to parse and log order book delta data in L2 and L3 formats.
 * Managed order book updates using deltas, tracking changes to the state over time.
