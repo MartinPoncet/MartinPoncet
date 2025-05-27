@@ -2,75 +2,101 @@
 
 ## Contact
 
-* Email: [martin.poncet@etu.emse.fr](mailto:martin.poncet@etu.emse.fr)
-* LinkedIn: [https://www.linkedin.com/in/martin-poncet](https://www.linkedin.com/in/martin-poncet)
-* Github: [https://github.com/MartinPoncet](https://github.com/MartinPoncet)
+* 📧 Email: [martin.poncet@etu.emse.fr](mailto:martin.poncet@etu.emse.fr)
+* 🔗 LinkedIn: [linkedin.com/in/martin-poncet](https://www.linkedin.com/in/martin-poncet)
+* 💻 GitHub: [github.com/MartinPoncet](https://github.com/MartinPoncet)
 
 ## Education
 
-### École des Mines de Saint-Étienne (September 2023 - Present)
+### École des Mines de Saint-Étienne — *Master's in Computer Science and Microelectronics*
 
-* Master’s in Computer Science and Microelectronics
-* Class of 2026
-* Courses: Computer Science and Data Science (C/C++, Python/Pandas), Microelectronics, Mathematics, Management.
+📍 *Saint-Étienne, France* — 🗓️ *September 2023 – Present*
 
-### Lycée Chaptal (September 2021 - July 2023)
+* Graduation expected in 2026
+* Courses include Computer Science and Data Science (C/C++, Python/Pandas), Microelectronics, Mathematics, and Management.
 
-* Two-year intensive preparatory program for engineering school entrance exams.
-* First year in PTSI (Physics, Technology, and Engineering Science), second year in PT (Physics and Technology).
-* Coursework: Mathematics, Physics, Engineering Science, Computer Science (Python).
+### Lycée Chaptal — *Classes Préparatoires aux Grandes Écoles (PTSI/PT)*
 
-### Lycée La Martinière Diderot (September 2018 - July 2021)
+📍 *Paris, France* — 🗓️ *September 2021 – July 2023*
 
-* French Baccalaureate in scientific field, with advanced options in Mathematics and English.
+* Intensive program preparing for competitive engineering school exams.
+* Focus on Mathematics, Physics, Engineering Science, and Computer Science (Python).
+
+### Lycée La Martinière Diderot — *Scientific Baccalaureate*
+
+📍 *Lyon, France* — 🗓️ *September 2018 – July 2021*
+
+* Specializations in Mathematics, Physics-Chemistry, Engineering Science.
+* Advanced English and Mathematics options.
 
 ## Experience
 
-### Agence Nationale des Fréquences (ANFR) – Paris 2024 Olympics (July 2024 - August 2024)
+### Amazon Web Services (AWS) — *Software Development Engineer Intern*
 
-* Radio Frequency Technician
-* Conducted frequency equipment tests and tagging for compliance during the Olympic Games.
-* Monitored and analyzed the radio frequency spectrum in real-time to detect and resolve interference.
-* Collaborated with technical teams to maintain secure and efficient radio communication.
+📍 *Dublin, Ireland* — 🗓️ *April 2025 – August 2025*
 
-### Société Générale - CIB (January 2024 - February 2024)
+* Developed internal tools and dashboards using **React**, **Next.js**, and **TypeScript** to manage ElastiCache configurations.
+* Optimized front-end performance via modular architecture and reusable components.
+* Delivered scalable, production-ready features in collaboration with AWS teams in an Agile environment.
 
-* Software Engineer Intern
-* Optimized data queries for High-Frequency Trading teams.
-* Enhanced capacity management tracking dashboard.
-* Developed performance dashboards for Data Center Management.
+### Agence Nationale des Fréquences (ANFR) — *Radio Frequency Technician*
+
+📍 *Lyon & Paris, France* — 🗓️ *July 2024 – August 2024*
+
+* Worked during the **Paris 2024 Olympics**.
+* Performed compliance testing and tagging of radio equipment.
+* Monitored real-time frequency spectrum, detecting and resolving interference.
+* Collaborated with on-site teams to ensure secure communications.
+
+### Société Générale – Corporate & Investment Banking — *Software Engineer Intern*
+
+📍 *Paris, France* — 🗓️ *January 2024 – February 2024*
+
+* Optimized SQL queries for High-Frequency Trading systems.
+* Upgraded dashboards for data center capacity and performance monitoring.
+* Improved tools for internal tracking and reporting.
 
 ## Projects
 
-### Order Book Delta Parser (February 2024) [[Code](https://github.com/MartinPoncet/Order-Book-Delta-Parser)]
+### 🟢 [Order Book Delta Parser](https://github.com/MartinPoncet/Order-Book-Delta-Parser) — *Python Script*
 
-* Developed a Python script to parse and log order book delta data in L2 and L3 formats.
-* Managed order book updates using deltas, tracking changes to the state over time.
-* Used Python libraries: pandas, logging, and collections for data manipulation and structure management.
+📅 *February 2024*
 
-### Wind Turbine Complex Simulation (September 2023 - December 2023) [[Code](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation)]
+* Parsed and logged order book delta data in both **L2** and **L3** formats.
+* Used **pandas**, **logging**, and **collections** to handle real-time updates and data transformations.
 
-* Developed a modular wind turbine simulation in C, applying object-oriented principles.
-* Simulated diverse wind conditions and real-world scenarios such as maintenance.
-* Created a user-friendly interface for scenario customization and results analysis.
+### 🟢 [Wind Turbine Complex Simulation](https://github.com/MartinPoncet/Complex-Wind-Turbine-Simulation) — *C Project*
 
-### TIPE - Personal Supervised Initiative (September 2021 - April 2023)
+📅 *September 2023 – December 2023*
 
-* Designed experimental setups to measure friction coefficients using Coulomb’s Law.
-* Applied physics, computer science, and engineering knowledge in experiments.
-* Collaborated with a partner to conduct experiments and present results, refining teamwork and communication skills.
+* Simulated real-world wind turbine scenarios with modular C code.
+* Applied object-oriented concepts, dynamic memory allocation, and file I/O.
+* Created interactive CLI for scenario management and data visualization.
+
+### 🔬 TIPE – *Personal Supervised Initiative*
+
+📅 *September 2021 – April 2023*
+
+* Designed and executed physics experiments on **Coulomb’s Law** to estimate friction coefficients.
+* Combined theoretical modeling with experimental validation.
+* Developed communication and teamwork skills through collaborative research and presentations.
 
 ## Technical Skills
 
 * **Languages**: French (native), English (C1), Spanish (B1), Chinese (A1)
-* **Programming Languages**: Python, C/C++, SQL, Java, JavaScript
-* **Tools & Frameworks**: Pandas, TensorFlow, Logging, Collections
+* **Programming**: Python, C/C++, SQL, Java, JavaScript
+* **Frameworks & Tools**: React, Next.js, Pandas, Logging, Collections, Git, Agile practices
+* **Cloud & DevOps**: AWS (ElastiCache, CloudWatch), CI/CD basics
 
-## Conclusion
+---
 
-As a Master’s student in Computer Science and Microelectronics at École des Mines de Saint-Étienne, I am deeply passionate about software engineering, data science, and AI. I thrive in problem-solving and innovation, constantly exploring new technologies and techniques. With my diverse project experience and academic background, I am eager to contribute to forward-thinking companies looking for dynamic software engineers.
+## 🚀 About Me
 
-[![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet/)
-[![Github](https://img.shields.io/badge/Github-Martin_Poncet-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/MartinPoncet)
-[![Profile Views](https://komarev.com/ghpvc/?username=martinponcet&color=lightgray)](https://github.com/MartinPoncet)
+As a Master’s student in Computer Science and Microelectronics at École des Mines de Saint-Étienne, I’m passionate about **software engineering**, **systems design**, and **data analysis**. I love solving complex problems and building tools that bring tangible value. With hands-on experience in both frontend and backend environments, as well as exposure to large-scale systems at AWS and Société Générale, I am ready to contribute to innovative and impact-driven teams.
+
+---
+
+[![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square\&logo=gmail\&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/martin-poncet/)
+[![Github](https://img.shields.io/badge/Github-Martin_Poncet-24292e?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MartinPoncet)
+[![Profile Views](https://komarev.com/ghpvc/?username=martinponcet\&color=lightgray)](https://github.com/MartinPoncet)
