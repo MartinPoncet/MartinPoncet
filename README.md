@@ -35,7 +35,7 @@
 
 📍 *Dublin, Ireland* — 🗓️ *April 2025 – August 2025*
 
-* Developed internal tools and dashboards using **React**, **Next.js**, and **TypeScript** to manage ElastiCache configurations.
+* Developed internal tools and dashboards using **React**, **Nest.js**, and **TypeScript** to manage ElastiCache configurations.
 * Optimized front-end performance via modular architecture and reusable components.
 * Delivered scalable, production-ready features in collaboration with AWS teams in an Agile environment.
 
@@ -85,7 +85,7 @@
 
 * **Languages**: French (native), English (C1), Spanish (B1), Chinese (A1)
 * **Programming**: Python, C/C++, SQL, Java, JavaScript
-* **Frameworks & Tools**: React, Next.js, Pandas, Logging, Collections, Git, Agile practices
+* **Frameworks & Tools**: React, Nest.js, Pandas, Logging, Collections, Git, Agile practices
 * **Cloud & DevOps**: AWS (ElastiCache, CloudWatch), CI/CD basics
 
 ---
