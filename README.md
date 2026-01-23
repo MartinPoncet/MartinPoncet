@@ -2,7 +2,7 @@
 
 ## Contact
 
-* 📧 Email: [martin.poncet@etu.emse.fr](mailto:martin.poncet@etu.emse.fr)
+* 📧 Email: [poncetmartin2003@gmail.com](mailto:poncetmartin2003@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/martin-poncet](https://www.linkedin.com/in/martin-poncet)
 * 💻 GitGitHub: [github.com/MartinPoncet](https://github.com/MartinPoncet)
 
@@ -78,7 +78,7 @@
 
 ## Technical Skills
 
-* **Languages**: French (native), English (C2), Spanish (B1), Chinese (A1)
+* **Languages**: French (native), English (fluent), Spanish (B1), Chinese (A1)
 * **Programming**: Python, C/C++, SQL, Java, JavaScript, TypeScript
 * **Frameworks & Tools**: React, Nest.js, Node.js, HTML/CSS, Git
 * **Cloud & DevOps**: AWS (ElastiCache, CloudWatch), basic CI/CD
@@ -91,7 +91,7 @@ I am a Master’s student in Computer Science and Microelectronics at École des
 
 ---
 
-[![E-Mail](https://img.shields.io/badge/Email-martin.poncet@etu.emse.fr-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:martin.poncet@etu.emse.fr)
+[![E-Mail](https://img.shields.io/badge/Email-poncetmartin2003@gmail.com-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:poncetmartin2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Poncet-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-poncet/)
 [![Github](https://img.shields.io/badge/Github-Martin_Poncet-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/MartinPoncet)
 [![Profile Views](https://komarev.com/ghpvc/?username=martinponcet&color=lightgray)](https://github.com/MartinPoncet)
