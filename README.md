@@ -4,7 +4,7 @@
 
 * 📧 Email: [poncetmartin2003@gmail.com](mailto:poncetmartin2003@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/martin-poncet](https://www.linkedin.com/in/martin-poncet)
-* 💻 GitGitHub: [github.com/MartinPoncet](https://github.com/MartinPoncet)
+* 💻 GitHub: [github.com/MartinPoncet](https://github.com/MartinPoncet)
 
 ## Experience
 
